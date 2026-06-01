@@ -1,5 +1,5 @@
 /**
- *  Java program to demonstrate reflection to access to method of the class and its return type.
+ *  Java program to demonstrate reflection to access to methods of the class and its return type.
  */
 
 package com.myreflection;
